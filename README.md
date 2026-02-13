@@ -53,3 +53,4 @@ Vor der naechsten Vorlesung. Pflicht + mindestens 1 Challenge.
 ---
 
 *Morphos GmbH - KI & Python Modul*
+
