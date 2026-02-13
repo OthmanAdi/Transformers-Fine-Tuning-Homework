@@ -1,0 +1,31 @@
+# Models (too large for git)
+mein_imdb_model/
+mein_deutsches_model/
+imdb_finetuned/
+german_amazon_model/
+diamond_model/
+diamond_final_model/
+deutsches_model/
+mein_finetuned_model/
+mein_sentiment_model/
+exp_*/
+vit-cifar10/
+vit-custom/
+
+# HuggingFace cache
+.cache/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp

@@ -1,0 +1,9 @@
+transformers
+datasets
+evaluate
+accelerate
+torch
+scikit-learn
+matplotlib
+Pillow
+numpy
